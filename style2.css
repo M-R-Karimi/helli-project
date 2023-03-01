@@ -1,0 +1,24 @@
+body{
+     background-color: rgb(255, 198, 190);
+
+}
+tr{
+     font-size: 30px;
+     size: 80px;
+}
+p{
+     font-size: 25px;
+}
+p1{
+     color: rgb(22, 158, 182);
+}
+p2{
+     font-size: 40px;
+     margin-left: 245px ;
+}
+p3{
+     font-size: 30px;
+}
+div{
+     font-size: 22px;
+}
